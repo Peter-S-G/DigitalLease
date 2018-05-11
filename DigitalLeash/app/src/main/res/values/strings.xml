@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Digital Leash</string>
+
+    <string name="user_name_text">User Name</string>
+    <string name="user_name">User Name</string>
+    <string name="radius_text">Radius</string>
+    <string name="radius">Radius in Km</string>
+    <string name="longitude_text">Longitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude_text">Latitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="create_button">Create</string>
+    <string name="update_button">Update</string>
+    <string name="status_button">Status</string>
+
+    <string name="status_ok">Status Ok</string>
+    <string name="text_one">"You're child is fine."\n Keep Drinking!</string>
+    <string name="woo_woo_button">Woo Woo!</string>
+
+    <string name="status_bad">Status Bad</string>
+    <string name="text_two">Your child is not in the zone!</string>
+    <string name="uh_oh_button">UH OH!</string>
+
+
+</resources>

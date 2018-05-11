@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digital Leash Child</string>
+    <string name="partentName">Parent\'s Name</string>
+    <string name="reportLocationButton">Report Location</string>
+</resources>
