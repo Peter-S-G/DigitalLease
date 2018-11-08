@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/petergeras/Downloads/DigitalLeash.zip (Unzipped Files)/DigitalLeash/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/petergeras/AndroidStudioProjects/DigitalLeash/DigitalLeash/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/petergeras/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cdbf54fa0e36ffef1d0ee35db5e4fb7a/res/values-v16/values-v16.xml",
+                    "source": "/Users/petergeras/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/6114a8bf8b83ad7739dfbae2d38b5f9d/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/petergeras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fcaa2b8197fadc80ccbd164620f97e9e/res/values-v16/values-v16.xml",
+                    "source": "/Users/petergeras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1606e26ae410b6acb45a2afebc149e05/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

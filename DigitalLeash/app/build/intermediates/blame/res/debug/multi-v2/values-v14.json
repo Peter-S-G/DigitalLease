@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/petergeras/Downloads/DigitalLeash.zip (Unzipped Files)/DigitalLeash/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/Users/petergeras/AndroidStudioProjects/DigitalLeash/DigitalLeash/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/Users/petergeras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fcaa2b8197fadc80ccbd164620f97e9e/res/values-v14/values-v14.xml",
+                    "source": "/Users/petergeras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1606e26ae410b6acb45a2afebc149e05/res/values-v14/values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",

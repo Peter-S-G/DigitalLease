@@ -287,8 +287,6 @@ public class FragmentMain extends Fragment {
         Intent intent = new Intent(FragmentMain.this.getActivity(), GPS_Service.class);
         FragmentMain.this.getActivity().startService(intent);
 
-
-
     }
 
 
@@ -330,9 +328,7 @@ public class FragmentMain extends Fragment {
         if (grantResults[0] == 0 && grantResults[1] == 0){
 
             show_gps();
-
         }
-
     }
 
 
@@ -345,7 +341,6 @@ public class FragmentMain extends Fragment {
         create.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
 
                 // Create button is enabled before it is clicked. Once clicked it becomes disabled
                 // In this part Create button getVolley(); from firebase
@@ -361,7 +356,6 @@ public class FragmentMain extends Fragment {
                 }
             }
         });
-
     }
 
 
@@ -400,9 +394,7 @@ public class FragmentMain extends Fragment {
 
             }
         });
-
     }
-
 
 
 
